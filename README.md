@@ -2,7 +2,7 @@
 
 ---
 
-## ** Project Background**
+## **Project Background**
 
 **GameHub**, established in **2013**, has rapidly grown into a global ecommerce platform offering a wide range of gaming products and accessories varying from flagship consoles to high-performance devices and premium peripherals. As the gaming retail landscape becomes increasingly competitive, GameHub continues to expand its operations, now approaching **90,000 customers** and surpassing **100,000 transactions**, with total revenue exceeding **$22 million**. The company’s rapid growth is supported by strong product demand, strategic scaling, and an improving digital retail experience.
 <br/>
@@ -12,7 +12,7 @@ This project presents a comprehensive **data analysis of GameHub’s performance
 ---
 <br/>
 
-## ** Initial Checks & Metrics**
+## **Initial Checks & Metrics**
 
 **GameHub** dataset contains **20,000+ gaming product sales records** from multiple countries spanning **2019–2021**. Before analysis, thorough quality checks were completed to validate data completeness, detect outliers, and ensure the dataset was suitable for utilization and performance analysis. The objective is to understand how **total revenue in USD** evolved across all products during this period. This initial assessment provides high-level revenue trends to support **product, marketing, and finance managers** in evaluating overall performance and guiding strategic decisions.
 <br/>
@@ -40,7 +40,7 @@ Seasonal patterns also emerged, with **December consistently showing major spike
 ---
 <br/>
 
-## ** Deep Dive Insights**
+## **Deep Dive Insights**
 
 * **1.Sales Momentum & Decline**
 
@@ -75,7 +75,7 @@ Seasonal patterns also emerged, with **December consistently showing major spike
 
 ##  **KPI, Insights & Recommendations**
 
-| **📌 KPI**                    | **🔎 Detailed Insight**                                                                                                                                                                                                                                                          | **💡 Recommendation**                                                                                                                                                 |
+| **KPI**                    | **Detailed Insight**                                                                                                                                                                                                                                                          | **Recommendation**                                                                                                                                                 |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ** Total Sales / Revenue**  | Sales **doubled in April 2020**, reaching **all-time highs in September and December 2020**. After this surge, revenue **declined sharply throughout 2021**, signaling a reversal in demand or market normalization.                                                             | Use historical spikes to forecast seasonal patterns. Launch early campaigns before peak months and create retention strategies to prevent post-peak declines.         |
 | **Sales by Product**       | **Gaming Monitor, Nintendo Switch, and Sony PlayStation** were the major contributors to both the 2020 surge and the 2021 decline. All three showed **plateauing behavior after Sept & Dec 2020**, driving overall downturn.                                                     | Introduce bundles, upsells, or refreshed product messaging. Conduct deeper analysis to understand product fatigue and consider diversification within top categories. |
