@@ -2,7 +2,7 @@
 
 ---
 
-## **💻 Project Background**
+## ** Project Background**
 
 **GameHub**, established in **2013**, has rapidly grown into a global ecommerce platform offering a wide range of gaming products and accessories varying from flagship consoles to high-performance devices and premium peripherals. As the gaming retail landscape becomes increasingly competitive, GameHub continues to expand its operations, now approaching **90,000 customers** and surpassing **100,000 transactions**, with total revenue exceeding **$22 million**. The company’s rapid growth is supported by strong product demand, strategic scaling, and an improving digital retail experience.
 <br/>
@@ -12,7 +12,7 @@ This project presents a comprehensive **data analysis of GameHub’s performance
 ---
 <br/>
 
-## **📊 Initial Checks & Metrics**
+## ** Initial Checks & Metrics**
 
 **GameHub** dataset contains **20,000+ gaming product sales records** from multiple countries spanning **2019–2021**. Before analysis, thorough quality checks were completed to validate data completeness, detect outliers, and ensure the dataset was suitable for utilization and performance analysis. The objective is to understand how **total revenue in USD** evolved across all products during this period. This initial assessment provides high-level revenue trends to support **product, marketing, and finance managers** in evaluating overall performance and guiding strategic decisions.
 <br/>
@@ -29,7 +29,7 @@ This project presents a comprehensive **data analysis of GameHub’s performance
 ---
 <br/>
 
-## **📌Executive Summary**
+## **Executive Summary**
 
 An analysis of GameHub’s sales data from **2019–2021** reveals total revenue of **$6.1 million**, with monthly performance ranging from **$80,000 to $500,000**. The data shows a noticeable upward trajectory beginning in **2020**, during which all products experienced strong sales growth. This overall trend highlights increasing demand and improved customer engagement across the platform.
 
@@ -40,7 +40,7 @@ Seasonal patterns also emerged, with **December consistently showing major spike
 ---
 <br/>
 
-## **🔍 Deep Dive Insights**
+## ** Deep Dive Insights**
 
 * **1.Sales Momentum & Decline**
 
@@ -73,15 +73,15 @@ Seasonal patterns also emerged, with **December consistently showing major spike
 ---
 <br/>
 
-## 📊 **KPI, Insights & Recommendations**
+##  **KPI, Insights & Recommendations**
 
 | **📌 KPI**                    | **🔎 Detailed Insight**                                                                                                                                                                                                                                                          | **💡 Recommendation**                                                                                                                                                 |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **💰 Total Sales / Revenue**  | Sales **doubled in April 2020**, reaching **all-time highs in September and December 2020**. After this surge, revenue **declined sharply throughout 2021**, signaling a reversal in demand or market normalization.                                                             | Use historical spikes to forecast seasonal patterns. Launch early campaigns before peak months and create retention strategies to prevent post-peak declines.         |
-| **🎮 Sales by Product**       | **Gaming Monitor, Nintendo Switch, and Sony PlayStation** were the major contributors to both the 2020 surge and the 2021 decline. All three showed **plateauing behavior after Sept & Dec 2020**, driving overall downturn.                                                     | Introduce bundles, upsells, or refreshed product messaging. Conduct deeper analysis to understand product fatigue and consider diversification within top categories. |
-| **🌐 Sales by Channel**       | **Direct traffic overwhelmingly dominates revenue**, with all other channels performing significantly lower. A **major dip in Direct sales for Gaming Monitors** occurred in early 2021, larger than any other product or channel.                                               | Reduce over-reliance on Direct traffic by strengthening social, referral, and paid channels. Test channel-specific promotions to broaden acquisition sources.         |
-| **🗺️ Regional Sales Trends** | All regions show **similar dips in 2020–2021**, suggesting global or macroeconomic influence. However, the **Gaming Monitor decline is heavily concentrated in North America (NA) and Direct traffic**, indicating localized issues such as competition or shifting preferences. | Investigate NA-specific competitors, pricing dynamics, and consumer trends. Deploy targeted offers or partnerships in NA to recover lost share.                       |
-| **📅 Seasonal Trends**        | Peaks in **April, September, and December** highlight strong recurring seasonal behaviours. The **largest spikes occurred in 2020**, likely due to holiday demand or promotional activity.                                                    | Align marketing spend, inventory planning, and campaign launches with seasonal cycles. Expand promotional events around these months to maximize growth.              |
+| ** Total Sales / Revenue**  | Sales **doubled in April 2020**, reaching **all-time highs in September and December 2020**. After this surge, revenue **declined sharply throughout 2021**, signaling a reversal in demand or market normalization.                                                             | Use historical spikes to forecast seasonal patterns. Launch early campaigns before peak months and create retention strategies to prevent post-peak declines.         |
+| **Sales by Product**       | **Gaming Monitor, Nintendo Switch, and Sony PlayStation** were the major contributors to both the 2020 surge and the 2021 decline. All three showed **plateauing behavior after Sept & Dec 2020**, driving overall downturn.                                                     | Introduce bundles, upsells, or refreshed product messaging. Conduct deeper analysis to understand product fatigue and consider diversification within top categories. |
+| ** Sales by Channel**       | **Direct traffic overwhelmingly dominates revenue**, with all other channels performing significantly lower. A **major dip in Direct sales for Gaming Monitors** occurred in early 2021, larger than any other product or channel.                                               | Reduce over-reliance on Direct traffic by strengthening social, referral, and paid channels. Test channel-specific promotions to broaden acquisition sources.         |
+| ** Regional Sales Trends** | All regions show **similar dips in 2020–2021**, suggesting global or macroeconomic influence. However, the **Gaming Monitor decline is heavily concentrated in North America (NA) and Direct traffic**, indicating localized issues such as competition or shifting preferences. | Investigate NA-specific competitors, pricing dynamics, and consumer trends. Deploy targeted offers or partnerships in NA to recover lost share.                       |
+| ** Seasonal Trends**        | Peaks in **April, September, and December** highlight strong recurring seasonal behaviours. The **largest spikes occurred in 2020**, likely due to holiday demand or promotional activity.                                                    | Align marketing spend, inventory planning, and campaign launches with seasonal cycles. Expand promotional events around these months to maximize growth.              |
 
 ---
 
