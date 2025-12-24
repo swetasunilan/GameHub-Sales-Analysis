@@ -1,8 +1,14 @@
 # GameHub-Sales-Analysis
 
 ---
-## 📑 Table of Contents
+##  Table of Contents
+- [Project Background](#project-background)
+- [Initial Checks & Metrics](#initial-checks--metrics)
 - [Executive Summary](#executive-summary)
+- [Deep Dive Insights](deep-dive-insights)
+- [KPI, Insights & Recommendations](kpi,-insights--recommendations)
+---
+
 ## **Project Background**
 
 **GameHub**, established in **2013**, has rapidly grown into a global ecommerce platform offering a wide range of gaming products and accessories varying from flagship consoles to high-performance devices and premium peripherals. As the gaming retail landscape becomes increasingly competitive, GameHub continues to expand its operations, now approaching **90,000 customers** and surpassing **100,000 transactions**, with total revenue exceeding **$22 million**. The company’s rapid growth is supported by strong product demand, strategic scaling, and an improving digital retail experience.
