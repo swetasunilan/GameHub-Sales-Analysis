@@ -5,8 +5,8 @@
 - [Project Background](#project-background)
 - [Initial Checks & Metrics](#initial-checks--metrics)
 - [Executive Summary](#executive-summary)
-- [Deep Dive Insights](deep-dive-insights)
-- [KPI, Insights & Recommendations](kpi,-insights--recommendations)
+- [Deep Dive Insights](#deep-dive-insights)
+- [KPI, Insights & Recommendations](#kpi,-insights--recommendations)
 ---
 
 ## **Project Background**
