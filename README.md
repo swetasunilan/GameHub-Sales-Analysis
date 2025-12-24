@@ -6,7 +6,7 @@
 - [Initial Checks & Metrics](#initial-checks--metrics)
 - [Executive Summary](#executive-summary)
 - [Deep Dive Insights](#deep-dive-insights)
-- [KPI, Insights & Recommendations](#kpi,-insights--recommendations)
+- [KPI, Insights & Recommendations](#kpi-insights--recommendations)
 ---
 
 ## **Project Background**
